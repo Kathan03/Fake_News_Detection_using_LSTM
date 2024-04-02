@@ -1,4 +1,4 @@
-# Fake News Detection System Using LSTM
+Fake News Detection System Using LSTM
 
 The aim of this project is to classify the legitmacy of news text. This can be achieved by understannding the sequential dependency of words present in the text. The achived classification accuracy is 99.69%. Additionaly, I have also reduced the number of trainable parameters my 78.57%, with increasing the classification accuracy by 2%.
 
